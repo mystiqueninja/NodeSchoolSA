@@ -5,4 +5,4 @@ To organise a Node.Js, io.js and MongoDB workshop in South Africa
 
 **Resources**
 
-Gitter [[https://gitter.im/mystiqueninja/nodeschoolsa Gitter]]
+Gitter https://gitter.im/mystiqueninja/nodeschoolsa
